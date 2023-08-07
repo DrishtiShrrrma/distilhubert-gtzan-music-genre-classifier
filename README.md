@@ -2,7 +2,7 @@
 
 1. set the random seed
 
-# Models to be Assesed
+# Models to be Assessed
 
 1. DistilHuBERT
 2. Wav2Vec2
