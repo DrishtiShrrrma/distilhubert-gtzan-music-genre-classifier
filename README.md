@@ -8,11 +8,11 @@
 2. Wav2Vec2
 3. HuBERT
 
-# Constraints to be assessed
+# Constraints to be Assessed
 
 1. Model Performance
 2. Training Time
-3. Amount of Overfitting, etc , train_loss, val_loss
+3. Amount of Overfitting, train_loss, val_loss
 4. other metrics
 
 
