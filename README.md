@@ -6,7 +6,7 @@
 
 1. DistilHuBERT
 2. Wav2Vec2
-3. HuBERT
+3. HuBERT  ---> batch_size -->25, 32 --> ran into OOM error + batch_size =18 --> 1h 40m
 
 # Constraints to be Assessed
 
