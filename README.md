@@ -23,6 +23,6 @@
 - Batch_size --> 16, time: 1h 51min 29s, Accuracy = 87%
 
 2. HuBERT
-- Batch_size --> 8, time: , Accuracy = 
+- Batch_size --> 8, time: 31min 41s , Accuracy = 100% (sth is wrong w this model!)
 - Batch_size --> 16, time: , Accuracy = OOM Error
 
