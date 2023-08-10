@@ -16,3 +16,11 @@
 4. other metrics
 
 
+# Observations
+
+1. DistilHuBERT
+Batch_size --> 8, time: 1h 52min 40s, Accuracy = 84%
+Batch_size --> 16, time: 1h 51min 29s, Accuracy = 87%
+
+2. 
+
