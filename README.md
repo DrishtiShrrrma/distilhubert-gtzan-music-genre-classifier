@@ -21,6 +21,7 @@
 1. DistilHuBERT
 - Batch_size --> 8, time: 1h 52min 40s, Accuracy = 84%
 - Batch_size --> 16, time: 1h 51min 29s, Accuracy = 87%
+- Batch_size --> 4, time: 1h 50min 11s, Accuracy = 86%
 
 2. HuBERT
 - Batch_size --> 8, time: 31min 41s , Accuracy = 100% (sth is wrong w this model!)
