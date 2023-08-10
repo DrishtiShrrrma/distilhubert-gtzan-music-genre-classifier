@@ -26,3 +26,7 @@
 - Batch_size --> 8, time: 31min 41s , Accuracy = 100% (sth is wrong w this model!)
 - Batch_size --> 16, time: , Accuracy = OOM Error
 
+3. Wav2Vec2
+- Batch_size --> 8, time: 2h 5min 38s  , Accuracy = 88%
+- Batch_size --> 16, time: 2h 35s , Accuracy = 88%
+
