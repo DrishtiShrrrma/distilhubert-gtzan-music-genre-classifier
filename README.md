@@ -19,8 +19,10 @@
 # Observations
 
 1. DistilHuBERT
-Batch_size --> 8, time: 1h 52min 40s, Accuracy = 84%
-Batch_size --> 16, time: 1h 51min 29s, Accuracy = 87%
+- Batch_size --> 8, time: 1h 52min 40s, Accuracy = 84%
+- Batch_size --> 16, time: 1h 51min 29s, Accuracy = 87%
 
-2. 
+2. HuBERT
+- Batch_size --> 8, time: , Accuracy = 
+- Batch_size --> 16, time: , Accuracy = 
 
