@@ -24,5 +24,5 @@
 
 2. HuBERT
 - Batch_size --> 8, time: , Accuracy = 
-- Batch_size --> 16, time: , Accuracy = 
+- Batch_size --> 16, time: , Accuracy = OOM Error
 
