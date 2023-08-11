@@ -1,6 +1,6 @@
 # Important
 
-1. set the random seed
+1. set the random seed (seed)
 
 # Models to be Assessed
 
