@@ -20,12 +20,12 @@
 
 1. DistilHuBERT
 
-#### fp16 = True
+**fp16 = True**
 - Batch_size --> 8, time: 1h 52min 40s, Accuracy = 84%
 - Batch_size --> 16, time: 1h 51min 29s, Accuracy = 87%
 - Batch_size --> 4, time: 1h 50min 11s, Accuracy = 86%
 
-#### fp16 = False
+**fp16 = False**
 - Batch_size --> 8, time: 1h 52min 58s, Accuracy = 84%
 - Batch_size --> 16, time: 1h 53min 29s, Accuracy = 84%
 - Batch_size --> 4, time: 1h 54min 46s, Accuracy = 85%
